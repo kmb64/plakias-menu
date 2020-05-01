@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5a022d2e279085c31f56871111e4bac9",
+    "revision": "440b75cc66e3a1bc7eb8ceb5a3514e0c",
     "url": "/plakias-menu/index.html"
   },
   {
-    "revision": "43735fb646b8ba6f0f6a",
+    "revision": "619463163d3b2a3705f6",
     "url": "/plakias-menu/static/css/main.945b66ff.chunk.css"
   },
   {
-    "revision": "c1f74edaf75476e188fb",
-    "url": "/plakias-menu/static/js/2.489868c6.chunk.js"
+    "revision": "4848da3dce999064d867",
+    "url": "/plakias-menu/static/js/2.0c82f4bc.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/plakias-menu/static/js/2.489868c6.chunk.js.LICENSE.txt"
+    "url": "/plakias-menu/static/js/2.0c82f4bc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "43735fb646b8ba6f0f6a",
-    "url": "/plakias-menu/static/js/main.723d66a2.chunk.js"
+    "revision": "619463163d3b2a3705f6",
+    "url": "/plakias-menu/static/js/main.1d73769f.chunk.js"
   },
   {
     "revision": "8207478bd6316bd9f70e",
@@ -26,5 +26,9 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "45192118ae3d05805798e04a41da3515",
     "url": "/plakias-menu/static/media/crete-beach.45192118.jpg"
+  },
+  {
+    "revision": "419e99b42914255a787d7b8fb0aa8087",
+    "url": "/plakias-menu/static/media/karlandjess.419e99b4.jpg"
   }
 ]);
