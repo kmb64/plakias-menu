@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/plakias-menu/static/css/main.945b66ff.chunk.css",
+    "main.js": "/plakias-menu/static/js/main.723d66a2.chunk.js",
+    "main.js.map": "/plakias-menu/static/js/main.723d66a2.chunk.js.map",
+    "runtime-main.js": "/plakias-menu/static/js/runtime-main.e68bcf2a.js",
+    "runtime-main.js.map": "/plakias-menu/static/js/runtime-main.e68bcf2a.js.map",
+    "static/js/2.489868c6.chunk.js": "/plakias-menu/static/js/2.489868c6.chunk.js",
+    "static/js/2.489868c6.chunk.js.map": "/plakias-menu/static/js/2.489868c6.chunk.js.map",
+    "index.html": "/plakias-menu/index.html",
+    "precache-manifest.de928e171c9df4b1be6709c79f864127.js": "/plakias-menu/precache-manifest.de928e171c9df4b1be6709c79f864127.js",
+    "service-worker.js": "/plakias-menu/service-worker.js",
+    "static/css/main.945b66ff.chunk.css.map": "/plakias-menu/static/css/main.945b66ff.chunk.css.map",
+    "static/js/2.489868c6.chunk.js.LICENSE.txt": "/plakias-menu/static/js/2.489868c6.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/plakias-menu/static/media/crete-beach.45192118.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e68bcf2a.js",
+    "static/js/2.489868c6.chunk.js",
+    "static/css/main.945b66ff.chunk.css",
+    "static/js/main.723d66a2.chunk.js"
+  ]
+}
