@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "440b75cc66e3a1bc7eb8ceb5a3514e0c",
+    "revision": "807c1eb2b0fe0606e5424b8390da1ebf",
     "url": "/plakias-menu/index.html"
   },
   {
-    "revision": "619463163d3b2a3705f6",
+    "revision": "2cad0267e078a536f9c1",
     "url": "/plakias-menu/static/css/main.945b66ff.chunk.css"
   },
   {
-    "revision": "4848da3dce999064d867",
-    "url": "/plakias-menu/static/js/2.0c82f4bc.chunk.js"
+    "revision": "7aa3932a9713a3da1b64",
+    "url": "/plakias-menu/static/js/2.63c12e93.chunk.js"
   },
   {
     "revision": "0749163b59fbee32225059cb60c18af6",
-    "url": "/plakias-menu/static/js/2.0c82f4bc.chunk.js.LICENSE.txt"
+    "url": "/plakias-menu/static/js/2.63c12e93.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "619463163d3b2a3705f6",
-    "url": "/plakias-menu/static/js/main.1d73769f.chunk.js"
+    "revision": "2cad0267e078a536f9c1",
+    "url": "/plakias-menu/static/js/main.4d83697f.chunk.js"
   },
   {
     "revision": "8207478bd6316bd9f70e",
